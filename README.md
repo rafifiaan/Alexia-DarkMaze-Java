@@ -47,13 +47,13 @@ _Ya benar sekali, ini adalah judul game kita. Alexia adalah seorang wanita yang 
 ## Gameplay
 > It's about Alexia's journey!
 
-*Firstly*, Alexia enters the maze at the top left of the map.
+***Firstly*, Alexia enters the maze at the top left of the map.**
 
 _*Pertama*, Alexia memasuki labirin dan berada di kiri atas peta.._
 ![First](https://user-images.githubusercontent.com/91828276/208488611-a16dc655-a27e-41be-9f36-3f67b1502b0f.png)
 </br>
 
-*Secondly*, Alexia runs, finds the key and takes it.
+***Secondly*, Alexia runs, finds the key and takes it.**
 
 _*Kedua*, Alexia berlari, menemukan kunci dan mengambilnya._
 > Finds and Before takes key :
@@ -63,7 +63,7 @@ _*Kedua*, Alexia berlari, menemukan kunci dan mengambilnya._
 ![Second2](https://user-images.githubusercontent.com/91828276/208491286-774e077b-4dd6-4374-8fc2-9f3937788e1e.png)
 </br>
 
-*Thirdly*, Alexia looks for the doors and successfully to find it and then opens it.
+***Thirdly*, Alexia looks for the doors and successfully to find it and then opens it.**
 
 _*Ketiga*, Alexia mencari pintu dan berhasil menemukannya lalu membukanya._
 > Find and Before opens the doors :
@@ -74,7 +74,7 @@ _*Ketiga*, Alexia mencari pintu dan berhasil menemukannya lalu membukanya._
 ![Third2](https://user-images.githubusercontent.com/91828276/208491288-19fd930c-edb2-41e4-ab14-8b83e88089c6.png)
 </br>
 
-*Fourth*, Alexia finds coins and successfully to collect them. 
+***Fourth*, Alexia finds coins and successfully to collect them.** 
 
 _*Keempat*, Alexia menemukan koin dan berhasil mengumpulkannya._
 > Finds coins and before collect :
@@ -84,7 +84,7 @@ _*Keempat*, Alexia menemukan koin dan berhasil mengumpulkannya._
 ![Fourth2](https://user-images.githubusercontent.com/91828276/208491301-939967f5-59b1-4786-b423-5fb1f009df70.png)
 </br>
 
-*Fifth*, Alexia goes looking for her keys again and suddenly in the middle of the road finds boots to increase her speed.
+***Fifth*, Alexia goes looking for her keys again and suddenly in the middle of the road finds boots to increase her speed.**
 
 _*Kelima*, Alexia pergi mencari kuncinya lagi dan tiba-tiba di tengah jalan menemukan sepatu bot untuk menambah kecepatannya._
 > Find the boots (SpeedSkill) :
@@ -95,13 +95,13 @@ _*Kelima*, Alexia pergi mencari kuncinya lagi dan tiba-tiba di tengah jalan mene
 ![Fifth2](https://user-images.githubusercontent.com/91828276/208495481-8c91d516-5820-467b-a0fb-c523efcc5f42.png)
 </br>
 
-*Sixth*, Alexia looks for her keys again and walks find a door with a chest inside.
+***Sixth*, Alexia looks for her keys again and walks find a door with a chest inside.**
 
 _*Keenam*, Alexia mencari kuncinya lagi dan berjalan menemukan pintu dengan peti di dalamnya._
 ![Sixth](https://user-images.githubusercontent.com/91828276/208496320-cc243a23-0630-420e-961b-4a77181828d3.png)
 </br>
 
-*Seventh*, Alexia successfully to find the chest and put the coin in.
+***Seventh*, Alexia successfully to find the chest and put the earned coins in.** 
 
 _*Ketujuh*, Alexia berhasil menemukan peti itu dan memasukkan koinnya._
 > Finish completing the game with the time and coin earned! 
