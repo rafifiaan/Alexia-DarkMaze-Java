@@ -1,6 +1,7 @@
 # Final Project OOP 2022 
 
 Hello! Welcome to our Workspace, this is a simple project for OOP Final Project, let's see below!
+
 _Halo! Selamat datang di Ruang Kerja kami, ini adalah proyek sederhana untuk Tugas Akhir OOP, mari kita lihat di bawah ini!_  
 
 # Developer
@@ -11,6 +12,7 @@ Sandyatama Fransisna Nugraha **as a** CFO - (5025211196)
 
 # Alexia: Dark Maze
 Yes, that's right, this is the title of our game. Alexia is a woman who plays in a dark maze base. She is required to find a way out by finding keys and collecting coins to place in a chest on his way out.
+
 _Ya benar sekali, ini adalah judul game kita. Alexia adalah seorang wanita yang bermain di dasar labirin gelap. Dia diharuskan mencari jalan keluar dengan menemukan kunci dan mengumpulkan koin untuk ditempatkan di peti pada saat keluar / finish._
 
 ## Structured Program
@@ -36,53 +38,64 @@ _Ya benar sekali, ini adalah judul game kita. Alexia adalah seorang wanita yang 
      + tile
         1. Tile
         2. TileManager
-* img 
+* img
+
 **available in the `SourceImage` folder.**        
 
 ## Gameplay
 > It's about Alexia's journey!
 
 *Firstly*, Alexia enters the maze at the top left of the map.
+
 _*Pertama*, Alexia memasuki labirin dan berada di kiri atas peta.._
 ![First](https://user-images.githubusercontent.com/91828276/208488611-a16dc655-a27e-41be-9f36-3f67b1502b0f.png)
 
 *Secondly*, Alexia runs, finds the key and takes it.
+
 _*Secondly*, Alexia berlari, menemukan kunci dan mengambilnya._
 > Finds and Before takes key :
 ![Second1](https://user-images.githubusercontent.com/91828276/208493694-be9c88af-256a-4d31-b3e5-aa6cdbb69911.png)
+
 > After takes key :
 ![Second2](https://user-images.githubusercontent.com/91828276/208491286-774e077b-4dd6-4374-8fc2-9f3937788e1e.png)
 
 *Thirdly*, Alexia looks for the doors and successfully to find it and then opens it.
+
 _*Thirdly*, Alexia mencari pintu dan berhasil menemukannya lalu membukanya._
 > Find and Before opens the doors :
 ![Third1](https://user-images.githubusercontent.com/91828276/208494281-b5c1ba01-da40-4d4a-ad8f-a07baaf7d866.png)
+
 > After opens the doors :
 ![Third2](https://user-images.githubusercontent.com/91828276/208491288-19fd930c-edb2-41e4-ab14-8b83e88089c6.png)
 
 *Fourth*, Alexia finds coins and successfully to collect them. 
+
 _*Fourth*, Alexia menemukan koin dan berhasil mengumpulkannya._
 > Finds coins and before collect :
 ![Fourth1](https://user-images.githubusercontent.com/91828276/208494993-d01232be-51da-4dda-b398-b227e7b8dbd4.png)
+
 > After collect the coin :
 ![Fourth2](https://user-images.githubusercontent.com/91828276/208491301-939967f5-59b1-4786-b423-5fb1f009df70.png)
 
 *Fifth*, Alexia goes looking for her keys again and suddenly in the middle of the road finds boots to increase her speed.
+
 _*Fifth*, Alexia pergi mencari kuncinya lagi dan tiba-tiba di tengah jalan menemukan sepatu bot untuk menambah kecepatannya._
 > Find the boots (SpeedSkill) :
 ![Fifth1](https://user-images.githubusercontent.com/91828276/208495472-7e597248-c872-483f-9b96-63548f475486.png)
+
 > After take the boot :
 ![Fifth2](https://user-images.githubusercontent.com/91828276/208495481-8c91d516-5820-467b-a0fb-c523efcc5f42.png)
 
 *Sixth*, Alexia looks for her keys again and walks find a door with a chest inside.
+
 _*Sixth*, Alexia mencari kuncinya lagi dan berjalan menemukan pintu dengan peti di dalamnya._
 ![Sixth](https://user-images.githubusercontent.com/91828276/208496320-cc243a23-0630-420e-961b-4a77181828d3.png)
 
 *Seventh*, Alexia successfully to find the chest and put the coin in.
+
 _*Sevent*, Alexia berhasil menemukan peti itu dan memasukkan koinnya._
 > Finish completing the game with the time and coin earned! 
 ![Seventh](https://user-images.githubusercontent.com/91828276/208496472-89481d24-a0e3-4fb8-b94d-ae2a1efb027e.png)
-</br>
 
 ## Tools 
 
@@ -100,9 +113,12 @@ https://www.youtube.com/@RyiSnow
 
 ### Criticism and suggestions 
  _*Contact Us on :*_
+
 Email : 
 **violencecorp@gmail.com**
+
 `or`
+
 LinkedIn : 
 1. Rafi Aliefian Putra Ramadhani [Tap This!](https://www.linkedin.com/in/rafifiaanpr/)
 2. Sandyatama Fransisna [Tap This!](https://www.linkedin.com/in/sandyatama-fransisna-74445a21a/)
