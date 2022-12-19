@@ -10,7 +10,7 @@ _Halo! Selamat datang di Ruang Kerja kami, ini adalah proyek sederhana untuk Tug
 Rafi Aliefian Putra Ramadhani - **CEO** - (5025211234)
 Sandyatama Fransisna Nugraha - **CFO** - (5025211196) 
 
-**_We are both from Sepuluh Nopember Institute of Technology_**
+We are both from **_Sepuluh Nopember Institute of Technology, Surabaya, East Java, Indonesia._**
 </br>
 
 # Alexia: Dark Maze
@@ -22,25 +22,25 @@ _Ya benar sekali, ini adalah judul game kita. Alexia adalah seorang wanita yang 
 > It's program structure in the running workspace :
 * src
     + Entity
-        1. Entity
-        2. Player
+     1. Entity
+     2. Player
     + main
-        1. CollisionChecker
-        2. Controller
-        3. GamePanel
-        4. MainProgram
-        5. ObjectPlacement
-        6. UI_Format
+     1. CollisionChecker
+     2. Controller
+     3. GamePanel
+     4. MainProgram
+     5. ObjectPlacement
+     6. UI_Format
      + Object
-        1. Chest
-        2. Coin
-        3. Door
-        4. Key
-        5. ObjectParent
-        6. SpeedSkill
+     1. Chest
+     2. Coin
+     3. Door
+     4. Key
+     5. ObjectParent
+     6. SpeedSkill
      + tile
-        1. Tile
-        2. TileManager
+     1. Tile
+     2. TileManager
 * img
 
   **_available in the `SourceImage` folder._**        
