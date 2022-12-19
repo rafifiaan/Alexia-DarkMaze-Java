@@ -8,6 +8,7 @@ _Halo! Selamat datang di Ruang Kerja kami, ini adalah proyek sederhana untuk Tug
  **Violence Developer Corp.**
 
 Rafi Aliefian Putra Ramadhani - **CEO** - (5025211234)
+
 Sandyatama Fransisna Nugraha - **CFO** - (5025211196) 
 
 We are both from **_Sepuluh Nopember Institute of Technology, Surabaya, East Java, Indonesia._**
