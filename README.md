@@ -22,25 +22,25 @@ _Ya benar sekali, ini adalah judul game kita. Alexia adalah seorang wanita yang 
 > It's program structure in the running workspace :
 * src
     + Entity
-     1. Entity
-     2. Player
+        - Entity
+        - Player
     + main
-     1. CollisionChecker
-     2. Controller
-     3. GamePanel
-     4. MainProgram
-     5. ObjectPlacement
-     6. UI_Format
+        - CollisionChecker
+        - Controller
+        - GamePanel
+        - MainProgram
+        - ObjectPlacement
+        - UI_Format
      + Object
-     1. Chest
-     2. Coin
-     3. Door
-     4. Key
-     5. ObjectParent
-     6. SpeedSkill
+        - Chest
+        - Coin
+        - Door
+        - Key
+        - ObjectParent
+        - SpeedSkill
      + tile
-     1. Tile
-     2. TileManager
+        - Tile
+        - TileManager
 * img
 
   **_available in the `SourceImage` folder._**        
