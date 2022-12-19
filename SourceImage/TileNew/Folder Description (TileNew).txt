@@ -1,0 +1,2 @@
+- Delete this .txt file
+- Combined all WorldGames into 1 in the TileNew package (2500 pcs)
