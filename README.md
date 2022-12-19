@@ -42,7 +42,7 @@ _Ya benar sekali, ini adalah judul game kita. Alexia adalah seorang wanita yang 
         2. TileManager
 * img
 
-  **available in the `SourceImage` folder.**        
+  **_available in the `SourceImage` folder._**        
 
 ## Gameplay
 > It's about Alexia's journey!
@@ -88,6 +88,7 @@ _*Keempat*, Alexia menemukan koin dan berhasil mengumpulkannya._
 
 _*Kelima*, Alexia pergi mencari kuncinya lagi dan tiba-tiba di tengah jalan menemukan sepatu bot untuk menambah kecepatannya._
 > Find the boots (SpeedSkill) :
+
 ![Fifth1](https://user-images.githubusercontent.com/91828276/208495472-7e597248-c872-483f-9b96-63548f475486.png)
 
 > After take the boot :
@@ -115,23 +116,24 @@ _*Ketujuh*, Alexia berhasil menemukan peti itu dan memasukkan koinnya._
 
 ## Reference Game 
 > Our play is not entirely the result of our thinking, but the results of our play result in a different pattern of play!
+
 [Tap this!](https://www.youtube.com/@RyiSnow)
 
-`or`
+**_or click on the link below_**
 
 https://www.youtube.com/@RyiSnow 
 
-`or tap this badges`
+**_or tap this badges_**
 
 [![YT RyiSnow](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RyiSnow)
 
 ### Criticism and suggestions 
- _*Contact Us on :*_
+ **_Contact Us on :_**
 
 Email : 
 **violencecorp@gmail.com**
 
-`or`
+**_or visit our social media_**
 
 LinkedIn : 
 1. Rafi Aliefian Putra Ramadhani [Tap This!](https://www.linkedin.com/in/rafifiaanpr/)
