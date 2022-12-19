@@ -8,8 +8,9 @@ _Halo! Selamat datang di Ruang Kerja kami, ini adalah proyek sederhana untuk Tug
  **Violence Developer Corp.**
 
 Rafi Aliefian Putra Ramadhani - **CEO** - (5025211234)
-
 Sandyatama Fransisna Nugraha - **CFO** - (5025211196) 
+
+**_We are both from Sepuluh Nopember Institute of Technology_**
 </br>
 
 # Alexia: Dark Maze
@@ -127,7 +128,7 @@ https://www.youtube.com/@RyiSnow
 
 [![YT RyiSnow](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RyiSnow)
 
-### Criticism and suggestions 
+### Criticism and Suggestions 
  **_Contact Us on :_**
 
 Email : 
