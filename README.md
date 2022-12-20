@@ -1,4 +1,4 @@
-# Final Project OOP 2022 
+# Final Project Object Oriented Programming (OOP) 2022 
 
 Hello! Welcome to our Workspace, this is a simple project for OOP Final Project, let's see below!
 
