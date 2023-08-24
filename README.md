@@ -5,7 +5,7 @@ Hello! Welcome to our Workspace, this is a simple project for OOP Final Project,
 _Halo! Selamat datang di Ruang Kerja kami, ini adalah proyek sederhana untuk Tugas Akhir OOP, mari kita lihat di bawah ini!_  
 
 # Developer
- **Violence Developer Corp.**
+ **Violence Team.**
 
 Rafi Aliefian Putra Ramadhani - (5025211234)
 
