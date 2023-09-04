@@ -142,4 +142,4 @@ LinkedIn :
 2. Sandyatama Fransisna [Tap This!](https://www.linkedin.com/in/sandyatama-fransisna-74445a21a/)
 </br>
 
-# Thankyou OOP, see you on the next project! :)
+*Thank you for visiting this repository, stay tuned for more projects!*
